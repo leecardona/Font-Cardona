@@ -5,6 +5,7 @@ Web fonts of Internet, technology and UI elements icons. Basically my own Font A
 
 License
 ============
+
 Licensed to match Font Awesome.
 
 The Font Cardona font is licensed under the SIL Open Font License - http://scripts.sil.org/OFL
