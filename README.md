@@ -1,5 +1,6 @@
-#Font Cardona 0.0.1
-##Web font of Internet, technology and UI element icons. Font Awesome inspired creations and inline with Twitter Bootstrap specs.
+##Font Cardona
+
+Web font of Internet, technology and UI element icons. Font Awesome inspired creations and inline with Twitter Bootstrap specs.
 
 ##License
 
