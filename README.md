@@ -15,5 +15,6 @@ Licensed to match Font Awesome.
 - web: leecardona.com
 
 ##Changelog
+- v0.0.3 - Added icons for coderwalls and dribbble.
 - v0.0.2 - Added css file.
 - v0.0.1 - Initial repo with readme file.
