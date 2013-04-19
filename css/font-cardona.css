@@ -1,5 +1,5 @@
 /*!
- *  Font Cardona 0.0.1 based on Font Awesome 3.0.2
+ *  Font Cardona 0.0.3 based on Font Awesome 3.0.2
  *  
  *  License
  *  -------------------------------------------------------
@@ -262,8 +262,8 @@ ul.icns li [class*=" icn-"] {
   }
 }
 
-.icn-coderwall-sign:before    { content: "\0041"; } /*A*/
-.icn-coderwall:before         { content: "\0061"; } /*a*/
+.icn-coderwall-sign:before    { content: "\0043"; } /*C*/
+.icn-coderwall:before         { content: "\0063"; } /*c*/
 .icn-dribbble-sign:before     { content: "\0044"; } /*D*/
 .icn-dribbble:before          { content: "\0064"; } /*d*/
 
