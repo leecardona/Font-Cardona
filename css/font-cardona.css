@@ -262,9 +262,9 @@ ul.icns li [class*=" icn-"] {
   }
 }
 
-.icn-coderwall:before              { content: "\0041"; } /*A*/
-.icn-coderwall-sign:before         { content: "\0061"; } /*a*/
-.icn-dribbble:before               { content: "\0044"; } /*D*/
-.icn-dribbble-sign:before          { content: "\0064"; } /*d*/
+.icn-coderwall-sign:before    { content: "\0041"; } /*A*/
+.icn-coderwall:before         { content: "\0061"; } /*a*/
+.icn-dribbble-sign:before     { content: "\0044"; } /*D*/
+.icn-dribbble:before          { content: "\0064"; } /*d*/
 
 
