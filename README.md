@@ -10,6 +10,9 @@ Licensed to match Font Awesome.
 - Font Cardona CSS, LESS, and SASS files are licensed under the MIT License - http://opensource.org/licenses/mit-license.html
 - The Font Cardona pictograms are licensed under the CC BY 3.0 License - http://creativecommons.org/licenses/by/3.0/
 
+##Example
+See the following [page](http://cloudnetworkers.com/html/font-cardona.html) for icons included in this font
+
 ##Contact
 - Twitter: @leecardona
 - web: leecardona.com
