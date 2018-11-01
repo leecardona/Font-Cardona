@@ -1,8 +1,8 @@
-##Font Cardona
+## Font Cardona
 
 Web font of Internet, technology and UI element icons. Font Awesome inspired creations and inline with Twitter Bootstrap specs.
 
-##License
+## License
 
 Licensed to match Font Awesome.
 
@@ -10,14 +10,14 @@ Licensed to match Font Awesome.
 - Font Cardona CSS, LESS, and SASS files are licensed under the MIT License - http://opensource.org/licenses/mit-license.html
 - The Font Cardona pictograms are licensed under the CC BY 3.0 License - http://creativecommons.org/licenses/by/3.0/
 
-##Example
+## Example
 See the following [page](http://cloudnetworkers.com/html/font-cardona.html) for icons included in this font
 
-##Contact
+## Contact
 - Twitter: @leecardona
 - web: leecardona.com
 
-##Changelog
+## Changelog
 - v0.0.4 - Added html page with examples
 - v0.0.3 - Added icons for coderwalls and dribbble.
 - v0.0.2 - Added css file.
